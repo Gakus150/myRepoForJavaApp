@@ -6,3 +6,4 @@ Another commit
 Second commit
 Third commit!
 >>>>>>> c3b388c45fa808e36e16296c66dca9322744a665
+fourth commit
